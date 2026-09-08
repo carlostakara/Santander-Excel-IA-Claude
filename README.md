@@ -13,7 +13,7 @@ A proposta do programa é capacitar profissionais desde os fundamentos do Excel 
 - Utilizar Tabelas Dinâmicas e Dashboards;
 - Automatizar processos utilizando Inteligência Artificial;
 - Desenvolver projetos práticos voltados para o mercado;
-- Construir um portfólio de projetos com Excel e IA. :contentReference[oaicite:1]{index=1}
+- Construir um portfólio de projetos com Excel e IA.
 
 ---
 
